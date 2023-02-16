@@ -152,16 +152,16 @@ nav {text-align: center;}
 .business_wrap .membership {float: right;}
 .business_wrap .b2b {float: right;}
 
-#footer {background: #d0d0d0;padding: 50px 0;color: #666;}
+#footer {background: #d0d0d0;padding: 50px 0;color: #777;}
 
 #footer .sns {float: right;margin-bottom: 15px;}
 #footer .sns a {display: inline-block;width: 44px;height: 44px;background-size: cover;margin-left: 10px;transition: all 0.5s;}
 #footer .sns a img {width: 100%;}
 
 #footer ul li {display: inline-block;margin-top: 3px;font-size: 17px;font-weight: 600;}
-#footer ul li::after {content:"";display: inline-block;width: 1px;height: 8px;background: #AAA;margin: 0 15px 2px;}
+#footer ul li::after {content:"";display: inline-block;width: 1px;height: 10px;background: #AAA;margin: 0 15px 2px;}
 #footer ul li:last-child::after {display: none;}
-#footer address {margin: 25px 0;line-height: 1.3em;}
+#footer address {margin: 25px 0;line-height: 1.3em;color: #888;}
 
 
 @media screen and (max-width: 1600px) {
