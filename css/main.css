@@ -157,7 +157,7 @@ nav {text-align: center;}
 
 
 #footer ul {display: inline-block;}
-#footer ul li {display: inline-block;margin-top: 3px;font-size: 17px;font-weight: 600;}
+#footer ul li {display: inline-block;margin-top: 3px;font-size: 17px;font-weight: 600;margin-bottom: 10px;}
 #footer ul li::after {content:"";display: inline-block;width: 1px;height: 10px;background: #AAA;margin: 0 15px 2px;}
 #footer ul li:last-child::after {display: none;}
 
@@ -217,7 +217,7 @@ nav {text-align: center;}
    #footer ul li:nth-child(7) {display: none;}
    #footer ul li:nth-child(3)::after {display: none;}
    #footer ul li::after {margin: 0 8px;height: 8px;}
-   #footer .sns {float: none;margin: 20px 0;}
+   #footer .sns {float: none;margin: 10px 0 20px;}
    #footer .sns button {width: 30px;height: 30px;margin-bottom: 15px;}
    #footer address {margin: 15px 0;}
 
